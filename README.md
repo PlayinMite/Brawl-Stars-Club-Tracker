@@ -10,12 +10,18 @@ An app that helps you keep track of your club!
 
 • Keep track of Mega Pig streaks! (This is a thing i see many clubs using as proof of loyalty and shows eligibility for promotions)
 
+Use the info tab in the top left of the app for more info!
 
 # TO DO:
 
 • Update to make the app longer so you dont need to scroll to see every member.
 
 • Update to add a mass remove feature
+
+• Apparently the font isnt working as intended, fix incoming.
+
+• Reduce the size of the "mega pig streak" column to just "streak", to add space
+
 
 I hope someone out there finds a use for this. Spent alot of time on it and I personally find it very helpful.
 

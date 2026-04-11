@@ -14,13 +14,7 @@ Use the info tab in the top left of the app for more info!
 
 # TO DO:
 
-• Update to make the app longer so you dont need to scroll to see every member.
-
-• Update to add a mass remove feature
-
-• Apparently the font isnt working as intended, fix incoming.
-
-• Reduce the size of the "mega pig streak" column to just "streak", to add space
+Nothing at the moment, looking for feedback.
 
 
 I hope someone out there finds a use for this. Spent alot of time on it and I personally find it very helpful.

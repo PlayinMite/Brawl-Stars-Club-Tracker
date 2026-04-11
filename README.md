@@ -25,8 +25,9 @@ Use the info tab in the top left of the app for more info!
 
 I hope someone out there finds a use for this. Spent alot of time on it and I personally find it very helpful.
 
-<img width="797" height="498" alt="image" src="https://github.com/user-attachments/assets/004d4a93-8f19-46c6-842d-e4c6d12825e1" />
+<img width="801" height="865" alt="image" src="https://github.com/user-attachments/assets/91f1f192-2d20-434a-b239-c8f5537ac737" />
 
-<img width="566" height="475" alt="image" src="https://github.com/user-attachments/assets/17151586-21d2-4156-820c-7af3f11c4906" />
+<img width="568" height="477" alt="image" src="https://github.com/user-attachments/assets/5c105bde-3606-468e-a46c-d0d7146a317d" />
+
 
 
